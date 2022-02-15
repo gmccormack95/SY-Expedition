@@ -1,16 +1,6 @@
-# sy_expedition
+# SY Expedition
 
-A new Flutter project.
+SY Expedition is a travel animation designed by Anton Skvortsov which I undertook as a personal challenge to develop as a real world Flutter Application. Due to some limitations with assets it is not identical however it's a fairly close representation!
 
-## Getting Started
+[Anton's Sy Expedition Animation](https://dribbble.com/shots/3787326-SY-Expedition-travel-animation/attachments/10020172?mode=media)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
